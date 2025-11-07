@@ -2,6 +2,10 @@
 
 Repository ini merupakan proyek untuk **Mata Kuliah Pemrograman Web** - Program Studi Pendidikan Teknologi Informasi, Universitas Muhammadiyah Surakarta (PTI UMS).
 
+## 🌐 Demo Website
+
+Website demo dapat diakses di: **[https://arifsetwn.pythonanywhere.com/](https://arifsetwn.pythonanywhere.com/)**
+
 ## Deskripsi Proyek
 
 Django Blog adalah aplikasi web berbasis Django yang memungkinkan pengguna untuk membuat, mengelola, dan membagikan postingan blog. Aplikasi ini dilengkapi dengan fitur rich text editor, upload gambar header, dan sistem komentar.
